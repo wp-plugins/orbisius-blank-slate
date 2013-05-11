@@ -1,7 +1,7 @@
 === Orbisius Blank Slate ===
 Contributors: lordspace
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7APYDVPBCSY9A
-Tags: wordpress-reset, wordpress, reset, admin
+Tags: wordpress-reset,wordpress,reset,admin,delete,content,bulk,comment,delete,draft,mass,page,Post,Revision
 Requires at least: 2.6
 Tested up to: 3.5.1
 Stable tag: 1.0.0
@@ -15,7 +15,7 @@ This plugin allows you to delete content from your WordPress site/blog.
 > Support is handled on our site: <a href="http://club.orbisius.com/" target="_blank" title="[new window]">http://club.orbisius.com/</a>
 > Please do NOT use the WordPress forums or other places to seek support.
 >
-> If you want more features check [Orbisius Blank Slate Pro] (http://club.orbisius.com/products/wordpress-plugins/orbisius-blank-slate-pro/)
+> If you want more features check <a href="http://club.orbisius.com/products/wordpress-plugins/orbisius-blank-slate-pro/" target="_blank" title="[new window]">Orbisius Blank Slate Pro</a>
 
 This plugin allows you to delete (selected) content from your WordPress site/blog.
 For example you are testing WordPress and have entered lots of lorem ipsum posts, pages, or attachments
