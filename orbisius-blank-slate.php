@@ -3,7 +3,7 @@
 Plugin Name: Orbisius Blank Slate
 Plugin URI: http://club.orbisius.com/products/wordpress-plugins/orbisius-blank-slate/
 Description: This plugin allows you to delete content from your WordPress site/blog. To use it go to <strong>Tools &rarr; Orbisius Blank Slate</strong>
-Version: 1.0.0
+Version: 1.0.1
 Author: Svetoslav Marinov (Slavi)
 Author URI: http://orbisius.com
 */
