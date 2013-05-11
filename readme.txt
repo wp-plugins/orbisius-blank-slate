@@ -14,6 +14,8 @@ This plugin allows you to delete content from your WordPress site/blog.
 = Support =
 > Support is handled on our site: <a href="http://club.orbisius.com/" target="_blank" title="[new window]">http://club.orbisius.com/</a>
 > Please do NOT use the WordPress forums or other places to seek support.
+>
+> If you want more features check [Orbisius Blank Slate Pro] (http://club.orbisius.com/products/wordpress-plugins/orbisius-blank-slate-pro/)
 
 This plugin allows you to delete (selected) content from your WordPress site/blog.
 For example you are testing WordPress and have entered lots of lorem ipsum posts, pages, or attachments
